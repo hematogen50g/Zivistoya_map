@@ -7,7 +7,7 @@
 "sounds" "1"
 "light" ".1"
 "mapversion" "220"
-"wad" "\games\half-life echoes\valve\halflife.wad;\games\half-life echoes\valve\liquids.wad;\games\half-life echoes\valve_downloads\zivistoya.wad"
+"wad" "\half-life echoes\valve\halflife.wad;\half-life echoes\valve\liquids.wad;\half-life echoes\valve\cached.wad;\half-life echoes\valve_downloads\zivistoya.wad"
 {
 ( 3520 -536 256 ) ( 3520 -536 160 ) ( 3520 -2400 160 ) FIFTIES_WALL14X [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
 ( 3520 -536 160 ) ( 3520 -536 256 ) ( 3504 -536 256 ) FIFTIES_WALL14X [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
@@ -11154,6 +11154,132 @@
 "renderamt" "100"
 "rendercolor" "0 0 0"
 "model" "sprites/glow03.spr"
-"scale" "1"
-"origin" "2771 -2041 327"
+"scale" ".6"
+"origin" "2771 -2261 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2771 -2481 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2771 -2041 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2451 -2261 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2451 -2481 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2451 -2041 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2131 -2261 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2131 -2481 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "2131 -2041 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "1811 -2261 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "1811 -2481 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "1811 -2041 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "1491 -2261 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "1491 -2481 319"
+}
+{
+"classname" "env_glow"
+"rendermode" "5"
+"renderamt" "100"
+"rendercolor" "0 0 0"
+"model" "sprites/glow03.spr"
+"scale" ".6"
+"origin" "1491 -2041 319"
 }
