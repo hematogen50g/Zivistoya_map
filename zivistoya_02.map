@@ -12709,11 +12709,6 @@
 "origin" "3409 -543 425"
 }
 {
-"classname" "info_player_deathmatch"
-"angles" "0 137 0"
-"origin" "39 -2196 72"
-}
-{
 "classname" "weapon_shotgun"
 "angles" "0 0 0"
 "origin" "2605 -344 32"
